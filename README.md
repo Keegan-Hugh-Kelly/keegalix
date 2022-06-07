@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @keegalix
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning HTML, CSS, JS, and SCSS
-- 💞️ I’m looking to collaborate on any projects to help expand my learning
+- 👋 Hi, I’m @keegalix (Keegan Kelly)
+- 💞️ I’m looking to collaborate on any projects to help expand my learning.
 - 📫 How to reach me:
 - Email: KeeganHughKelly
 - Insta: @Keegan.hugh.kelly
