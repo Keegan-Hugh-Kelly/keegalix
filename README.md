@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @keegalix (Keegan Kelly)
-- 💞️ I’m looking to collaborate on any projects to help expand my learning.
-- 📫 How to reach me:
-- Email: kgnhughkelly@gmail.com
-- Insta: @Keegan.hugh.kelly
-- Discord: @Keegalix #1130
+# Hi there! I am Keegan Hugh Kelly, a Junior Full-Stack Web Developer.
+
+# Contact Me Here:
+## Email: kgnhughkelly@gmail.com
+## LinkedIn: https://www.linkedin.com/in/keegan-kelly-6944ba203/
